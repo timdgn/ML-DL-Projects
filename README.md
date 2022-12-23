@@ -11,10 +11,10 @@ This repository contains some little projects done to master the classics of ML/
 5. KNN
 6. SVM
 7. Cross Validation (K-Fold)
-8. Cross Validation (Hyper-parameters tuning)
 
 ### My Deep Learning projects
 
 1. Regression
 2. Binary Classification
 3. MNIST Classification
+4. Cross Validation (Hyper-parameters tuning)
