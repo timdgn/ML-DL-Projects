@@ -18,3 +18,4 @@ This repository contains some little projects done to master the classics of ML/
 2. Binary Classification
 3. MNIST Classification
 4. Cross Validation (Hyper-parameters tuning)
+5. NLP Emotion and Sentiment analysis with a fine-tuned BERT model
