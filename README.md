@@ -19,3 +19,7 @@ This repository contains some little projects done to master the classics of ML/
 3. [MNIST Classification](https://github.com/timdgn/ML-DL-Projects/blob/main/DL%20MNIST%20Classification.ipynb)
 4. [Cross Validation (Hyper-parameters tuning)](https://github.com/timdgn/ML-DL-Projects/blob/main/DL%20Cross%20Validation%20(Hyper-parameters%20tuning).ipynb)
 5. NLP Emotion and Sentiment analysis with a fine-tuned BERT model
+
+### Datasets
+
+The "Churn Modelling" dataset is available [here](https://www.kaggle.com/aakash50897/churn-modellingcsv?select=Churn_Modelling.csv) on Kaggle.
